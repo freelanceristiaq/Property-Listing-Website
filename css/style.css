@@ -7,3 +7,16 @@
     background-color: #071C1F;
     padding: 20px 0;
 }
+
+.Custom-btn {
+    background-color: #FF5A3C;
+    padding: 30px 15px;
+    color: white;
+    border: none;
+}
+
+.Custom-btn:hover {
+    border: solid 1px #FF5A3C;;
+    padding: 30px 15px;
+    color: black;
+}
