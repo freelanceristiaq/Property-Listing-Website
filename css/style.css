@@ -52,6 +52,7 @@
     line-height: 25px;
     width: 70%;
 }
+
 .Features h2 {
     font-size: 30px;
     font-weight: 700;
@@ -110,6 +111,7 @@
     background-color: #FF5A3C;
 
 }
+
 .features-box-center img {
     width: 118px;
     height: auto;
@@ -150,6 +152,7 @@
     font-size: 20px;
     font-weight: 500;
 }
+
 .features-2-item p {
     font-size: 12px;
     color: #9EABB3;
@@ -159,10 +162,65 @@
 
 
 .Featured-Property {
-    padding: 100px;
+    padding: 100px 0px;
 }
 
 .Featured-Property h3 {
     font-size: 30px;
     font-weight: bold;
+}
+
+.Featured-Property-bg {
+    background-image: url(/img/Apartment-01.png);
+    width: 424px;
+    height: 380px;
+    position: relative;
+}
+
+
+.Featured-Property-item {
+    /* width: 271px;
+    height: 138px; */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-left: 10px;
+}
+
+.Featured-Property-item h5 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #FF5A3C;
+}
+
+.Featured-Property-item h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+.Featured-Property-item p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #8FA0A8;
+
+}
+
+.read-more-btn {
+    background-color: #FF5A3C;
+    padding: 15px 30px;
+    color: white;
+    border: none;
+    float: right;
+    float: bottom;
+}
+
+.read-more-btn i {
+    color: white;
+
+
+}
+
+.read-more-btn i :hover {
+    color: rgb(0, 0, 0);
+
+
 }
