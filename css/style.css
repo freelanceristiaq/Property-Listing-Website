@@ -14,6 +14,14 @@
     font-weight: bold;
 }
 
+.nav-items :active {
+    color: rgb(0, 0, 0);
+}
+
+.nav-items :hover {
+    color: FF5A3C;
+}
+
 .Custom-btn {
     background-color: #FF5A3C;
     padding: 15px 30px;
@@ -43,4 +51,82 @@
     color: #9EABB3;
     line-height: 30px;
     width: 70%;
+}
+.Features h2 {
+    font-size: 30px;
+    font-weight: 700;
+    width: 30%;
+}
+
+.Features p {
+    font-size: 16px;
+    color: #9EABB3;
+    width: 30%;
+    line-height: 30px;
+}
+
+
+.features-box-left img {
+    width: 118px;
+    height: auto;
+
+}
+
+.features-box-left h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.features-box-left p {
+    font-size: 16px;
+    color: #9EABB3;
+    line-height: 30px;
+    font-weight: 300;
+
+}
+
+
+.features-box-right img {
+    width: 118px;
+    height: auto;
+
+}
+
+.features-box-right h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.features-box-right p {
+    font-size: 16px;
+    color: #9EABB3;
+    line-height: 30px;
+    font-weight: 300;
+
+
+}
+
+.features-box-center {
+    background-color: #FF5A3C;
+
+}
+.features-box-center img {
+    width: 118px;
+    height: auto;
+
+}
+
+.features-box-center h4 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.features-box-center p {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 30px;
+    font-weight: 300;
+
+
 }
